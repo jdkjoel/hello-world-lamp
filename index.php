@@ -1,7 +1,7 @@
 <?php $link = mysql_connect('localhost', 'root'); ?>
 <html>
 <head>
-	<title>Hello worldmnopqqqq</title>
+	<title>Hello worldmnopqqqqrstuv!!!</title>
 	<style>
 	body {
 		background-color: white;
