@@ -79,9 +79,9 @@ files:
 # During the ApplicationStop deployment lifecycle event, run the commands 
 #   in the script specified in "location" starting from the root of the 
 #   revision's file bundle.
-  ApplicationStop:
-    - location: 1
-      timeout: 15
+#  ApplicationStop:
+#    - location: 1
+#      timeout: 15
 #      runas:
 #    - location: 
 #      timeout:
